@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c175fb08-bddf-4fbb-948a-2a0f86fa5111/deploy-status)](https://app.netlify.com/sites/zen-roentgen-39069f/deploys)
+
+https://zen-roentgen-39069f.netlify.app
 
 ## Available Scripts
 
@@ -68,4 +71,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c175fb08-bddf-4fbb-948a-2a0f86fa5111/deploy-status)](https://app.netlify.com/sites/zen-roentgen-39069f/deploys)
